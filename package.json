@@ -1,10 +1,9 @@
 {
   "name": "@zaibot/mathlib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common math functions",
   "main": "src/index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Zaibot/node-mathlib.git"
