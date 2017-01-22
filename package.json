@@ -1,0 +1,19 @@
+{
+  "name": "@zaibot/mathlib",
+  "version": "1.0.0",
+  "description": "Common math functions",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaibot/node-mathlib.git"
+  },
+  "keywords": [],
+  "author": "T. de Groen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zaibot/node-mathlib/issues"
+  },
+  "homepage": "https://github.com/Zaibot/node-mathlib#readme"
+}
