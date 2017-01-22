@@ -1,4 +1,4 @@
 module.exports = function(value, inLow, inHigh, outMin, outMax) {
-  const value = (x - inLow) * (outMax - outMin) / (inHigh - inLow) + outMin;
-  return value <= outMin ? outMin : value >= outMax ? outMax : value;
+  const map = (x - inLow) * (outMax - outMin) / (inHigh - inLow) + outMin;
+  return map <= outMin ? outMin : map >= outMax ? outMax : map;
 }
