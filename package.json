@@ -1,6 +1,6 @@
 {
   "name": "@zaibot/mathlib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Common math functions",
   "main": "src/index.js",
   "scripts": {
