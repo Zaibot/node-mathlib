@@ -11,6 +11,9 @@ describe('map_constrain', function() {
   it('should return 10', function() {
     assert.equal(mathlib.map_constrain(10, 0, 5, 5, 10), 10);
   });
+  it('should return 10', function() {
+    assert.equal(mathlib.map_constrain(10, 0, 5, 10, 5), 5);
+  });
 });
 
 describe('map', function() {
